@@ -1,0 +1,79 @@
+
+{
+"personal_information": {
+  "name": "Mediani El Mehdi",
+  "phone": "+212644171340",
+  "email": "mediani.mehdi.dev@gmail.com",
+  "linkedin": "www.linkedin.com/in/dev-mehdi"
+},
+"title": "Développeur Full Stack",
+"summary": "Ingénieur logiciel polyvalent avec une solide expérience en développement full-stack, maîtrisant Angular, Spring Boot et Flutter. Capable de concevoir, développer et déployer des solutions logicielles robustes. Actuellement en dernière année d'études, je recherche une opportunité de stage pré-emploi pour mettre en pratique mes compétences et contribuer à des projets innovants au sein d'une équipe dynamique.",
+"skills": {
+  "backend": ["Python", "Java", "C", "C++", "Dart"],
+  "web_development": ["HTML", "CSS", "JavaScript", "Angular", "ReactJS", "NodeJS", "NextJS", "Springboot", "JEE", "Flask"],
+  "mobile_development": ["Flutter"],
+  "databases": ["SQL", "MySQL", "Postgres", "MongoDB", "Firebase"],
+  "devops": ["Docker", "Jenkins", "SonarQube"],
+  "methodologies_and_tools": ["Scrum", "Bitbucket", "Git", "Notion", "Jira"],
+  "modeling": ["UML", "MCD", "MLD"]
+},
+"experience": [
+{
+  "company": "ILEM GROUP",
+  "role": "Développement d’une application de la gestion des collaborateurs",
+  "duration": "Mars 2024 - Sept 2024",
+  "technologies": ["SpringBoot", "Angular", "MySQL", "Docker"],
+  "responsibilities": [
+  "Développement d'une application web robuste intégrant Spring Boot pour le back-end et Angular pour le front-end, améliorant la performance et la maintenabilité.",
+  "Amélioration de la sécurité et de l'efficacité des applications grâce à Azure Active Directory pour l'authentification des utilisateurs et à SMTP pour les notifications automatisées par mail.",
+  "Développement d'un planning utilisant la bibliothèque Syncfusion pour gérer efficacement les collaborateurs.",
+  "Déploiement de l'application et conteneurisation à l'aide de Docker, ce qui a permis de rationaliser le processus de déploiement et d'améliorer la cohérence entre les différents environnements."
+  ]
+},
+{
+"company": "IRMH SARL",
+"role": "Développement d'une application de gestion des ressources",
+"duration": "Oct 2023 - Nov 2023",
+"technologies": ["Flutter", "SpringBoot", "PostgresSQL"],
+"responsibilities": [
+"Mise en œuvre d'une API RESTful robuste avec Spring Boot, assurant une communication transparente entre les systèmes frontaux et dorsaux.",
+"Conception et développement d'interfaces dynamiques avec Flutter, améliorant l'expérience utilisateur grâce à des composants réactifs et intuitifs.",
+"Conteneurisation du backend avec Docker, facilitant le déploiement et la gestion des environnements."
+]
+},
+{
+"company": "EURAFRIC INFORMATION",
+"role": "Création d'une application de gestion des versions",
+"duration": "Juil 2023 - Aout 2023",
+"technologies": ["SpringBoot", "Angular", "MySQL"],
+"responsibilities": [
+"Développement du frontend avec Angular, améliorant l'interface et l'expérience utilisateur.",
+"Utilisation de NgPrime pour des composants UI avancés, garantissant un design réactif.",
+"Conception des services backend avec Spring Boot, assurant des opérations efficaces et évolutives.",
+"Implémentation des API RESTful pour une communication transparente entre frontend et backend."
+]
+}
+],
+"education": [
+{
+"degree": "Cycle d’ingénieur en Développement Logiciel",
+"institution": "L’école supérieure d’Ingénierie et de Management",
+"duration": "2022 - 2024"
+},
+{
+"degree": "Licence en Mathématiques et Informatique",
+"institution": "Facultée des sciences ben m’sik",
+"duration": "2019 - 2022"
+},
+{
+"degree": "Bacaleaureat en science physique",
+"institution": "Lycée Mokhtar Soussi",
+"year": "2019"
+}
+],
+"languages": {
+"arabe": "Maternelle",
+"francais": "Courant",
+"anglais": "Courant"
+}
+}
